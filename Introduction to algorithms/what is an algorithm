@@ -1,0 +1,16 @@
+First of all we have to know that what is an algorithm?
+
+...well, an alogorithm is a process about how to systemetically handle any specific work.
+
+...almost all of our daily works we use any type of algorithmic process to do it.
+
+
+..like cooking algo, playing chess, solving rubics cube. Those are in general examples,
+in mathematics we apply many algos to solve a problem. 
+
+...But in our journey of computer science we will see the algorithms to manipulate infos and data so that we can store using minimal memory and access the datas very easily and in a less time.
+
+
+...In our very begining tutorial we will just take a naive idea about use of algorithms.
+We will try to figure out how to calculate gcd of two numbers. Here we will going to see
+various method to calculate it and end up with the more efficient algorithm. In all the algorithm we will see that how the running time increses with the increase of input data size.
